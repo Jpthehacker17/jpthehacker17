@@ -1,133 +1,28 @@
-<div align="center">
+# Hi there, I'm JOHN PAUL CALVILLO II 👋
 
-```
-██╗██████╗     ████████╗██╗  ██╗███████╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
-██║██╔══██╗    ╚══██╔══╝██║  ██║██╔════╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
-██║██████╔╝       ██║   ███████║█████╗      ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
-██║██╔═══╝        ██║   ██╔══██║██╔══╝      ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
-██║██║            ██║   ██║  ██║███████╗    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
-╚═╝╚═╝            ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+### 👨‍💻 Computer Science & Cybersecurity | Web Developer | Creative Multimedia Producer
 
-# Hey, I'm **John Paul Calvillo II** 👾
+I am a college freshman with sophomore-level standing, deeply passionate about software development, cybersecurity, and digital media. I blend technical programming skills with a strong background in creative arts, including 3D animation, video production, and music composition. 
 
-### `Self-Taught` · `Cyber Breaker` · `Code Builder` · `Creative Hacker`
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Pentester+%F0%9F%94%93;Web+Developer+%F0%9F%8C%90;Creative+Technologist+%F0%9F%8E%A8;Always+Learning%2C+Always+Hacking+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-</div>
+I am currently looking for a **Summer 2026 Computer Science or Cybersecurity Internship** (Remote or in the Rio Grande Valley, TX).
 
 ---
 
-## 🧠 Who Am I?
+### 🚀 What I'm Currently Working On
+* **Volunteer Tracking Hub**: Building a full-stack web application designed to serve as a centralized hub for students and volunteers to easily log and manage their service hours with various organizations. 
+* **Creative Projects**: Bringing ideas to life through 3D animation and video production—skills that previously earned me a 1st place national award with the Student Television Network for a public service announcement.
+* **Music Composition**: Writing original music and composing tracks for short films, drawing from my experience in band and jazz orchestra. 
 
-```python
-jp = {
-    "name"       : "John Paul Calvillo II",
-    "alias"      : "jpthehacker17",
-    "role"       : ["Cybersecurity Pentester", "Web Developer", "Creative Technologist"],
-    "certified"  : ["Java IT", "HTML & CSS", "Adobe Photoshop"],
-    "trained_in" : ["Python", "Ethical Hacking", "Penetration Testing"],
-    "hardware"   : ["Raspberry Pi enthusiast 🍓"],
-    "approach"   : "Self-taught and self-driven. Break things to understand them.",
-    "website"    : "johnpaulcalvilloii.com",
-}
-```
+### 🛠️ Tech Stack & Tools
+* **Languages:** HTML, CSS, JavaScript
+* **Frameworks & Libraries:** React, Next.js
+* **Backend & Database:** Supabase
+* **Design & Hosting:** Figma, Cloudflare
 
-> *"The best way to learn a system is to find where it breaks."*
-
----
-
-## 🔧 Tech Stack & Arsenal
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-**Creative Suite**
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-</div>
+### 📫 Let's Connect
+* **LinkedIn:** [John Paul Calvillo II](https://www.linkedin.com/in/john-paul-calvillo-ii-67952a36a)
+* **Website:** [Your Website Link Here] 
+* **Email:** [Your Email Here]
 
 ---
-
-## 🔐 Cybersecurity Focus
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🎯 Penetration Testing     ████████████░░░░  75%       │
-│  🌐 Web App Security        ███████████░░░░░  70%       │
-│  🐍 Python Scripting        █████████░░░░░░░  60%       │
-│  🔍 Recon & OSINT           ████████████████  85%       │
-│  🖥️  Network Analysis       ████████░░░░░░░░  55%       │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![JP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpthehacker17&theme=matrix&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jpthehacker17&theme=matrix&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpthehacker17&theme=matrix&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jpthehacker17&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🌐 Find Me Online
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-johnpaulcalvilloii.com-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white)](http://johnpaulcalvilloii.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Paul%20Calvillo%20II-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-paul-calvillo-ii-67952a36a)
-[![Instagram](https://img.shields.io/badge/Instagram-john__paul.cal-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/john_paul.cal)
-[![GitHub](https://img.shields.io/badge/GitHub-Jpthehacker17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jpthehacker17)
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Dev Quote of the Day
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=jpthehacker17&icon=6&color=0)
-
-*"Code it. Break it. Rebuild it better."* 💚
-
-</div>
+⭐️ *Always learning, always creating. Feel free to reach out for collaborations or internship opportunities!*
