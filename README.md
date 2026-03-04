@@ -1,24 +1,133 @@
-# 💫 About Me:
-Self-taught Cybersecurity Pentester | Hacker | Programmer | Web Developer Java IT Certified | HTML & CSS Certified | Python-Trained | Adobe PhotoShop Certified<br>
+<div align="center">
 
+```
+██╗██████╗     ████████╗██╗  ██╗███████╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
+██║██╔══██╗    ╚══██╔══╝██║  ██║██╔════╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+██║██████╔╝       ██║   ███████║█████╗      ███████║███████║██║     █████╔╝ █████╗  ██████╔╝
+██║██╔═══╝        ██║   ██╔══██║██╔══╝      ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+██║██║            ██║   ██║  ██║███████╗    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
+╚═╝╚═╝            ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/john_paul.cal) 
+# Hey, I'm **John Paul Calvillo II** 👾
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jpthehacker17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jpthehacker17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpthehacker17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### `Self-Taught` · `Cyber Breaker` · `Code Builder` · `Creative Hacker`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jpthehacker17&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Pentester+%F0%9F%94%93;Web+Developer+%F0%9F%8C%90;Creative+Technologist+%F0%9F%8E%A8;Always+Learning%2C+Always+Hacking+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jpthehacker17&icon=2&color=12)](https://visitcount.itsvg.in)
 
+## 🧠 Who Am I?
 
+```python
+jp = {
+    "name"       : "John Paul Calvillo II",
+    "alias"      : "jpthehacker17",
+    "role"       : ["Cybersecurity Pentester", "Web Developer", "Creative Technologist"],
+    "certified"  : ["Java IT", "HTML & CSS", "Adobe Photoshop"],
+    "trained_in" : ["Python", "Ethical Hacking", "Penetration Testing"],
+    "hardware"   : ["Raspberry Pi enthusiast 🍓"],
+    "approach"   : "Self-taught and self-driven. Break things to understand them.",
+    "website"    : "johnpaulcalvilloii.com",
+}
+```
+
+> *"The best way to learn a system is to find where it breaks."*
+
+---
+
+## 🔧 Tech Stack & Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+**Creative Suite**
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 🔐 Cybersecurity Focus
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🎯 Penetration Testing     ████████████░░░░  75%       │
+│  🌐 Web App Security        ███████████░░░░░  70%       │
+│  🐍 Python Scripting        █████████░░░░░░░  60%       │
+│  🔍 Recon & OSINT           ████████████████  85%       │
+│  🖥️  Network Analysis       ████████░░░░░░░░  55%       │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![JP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpthehacker17&theme=matrix&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jpthehacker17&theme=matrix&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpthehacker17&theme=matrix&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jpthehacker17&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-johnpaulcalvilloii.com-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white)](http://johnpaulcalvilloii.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Paul%20Calvillo%20II-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-paul-calvillo-ii-67952a36a)
+[![Instagram](https://img.shields.io/badge/Instagram-john__paul.cal-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/john_paul.cal)
+[![GitHub](https://img.shields.io/badge/GitHub-Jpthehacker17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jpthehacker17)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✍️ Dev Quote of the Day
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=jpthehacker17&icon=6&color=0)
+
+*"Code it. Break it. Rebuild it better."* 💚
+
+</div>
