@@ -75,8 +75,4 @@ john_paul = {
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Jpthehacker17&icon=2&color=6)
-
-</div>
